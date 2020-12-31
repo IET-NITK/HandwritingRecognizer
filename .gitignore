@@ -6,3 +6,4 @@ ocr-server/
 images/
 env/
 __pycache__
+final.model
